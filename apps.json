@@ -1,20 +1,24 @@
-[
-  {
-    "title": "FPT Play",
-    "category": "Truyền hình",
-    "imageUrl": "https://i.ibb.co/pjkq0R5N/fptplay.png",
-    "packageName": "com.fptplay.activity",
-    "versionCode": 72618,
-    "description": "Ứng dụng xem TV trực tuyến.",
-    "downloadUrl": "https://github.com/user/repo/releases/download/v1.0/fptplay.apk"
-  },
-  {
-    "title": "YouTube",
-    "category": "Giải trí",
-    "imageUrl": "https://i.imgur.com/R8kX39Y.png",
-    "packageName": "com.google.android.youtube.tv",
-    "versionCode": 100,
-    "description": "Xem video miễn phí.",
-    "downloadUrl": "https://link-youtube-apk.apk"
-  }
-]
+{
+  "store_version": 2,
+  "store_url": "https://link-tai-apk-tt-store-moi-nhat.apk",
+  "apps": [
+    {
+      "title": "FPT Play",
+      "category": "Truyền hình",
+      "imageUrl": "https://i.ibb.co/pjkq0R5N/fptplay.png",
+      "packageName": "com.fptplay.activity",
+      "versionCode": 72618,
+      "description": "Ứng dụng xem TV trực tuyến.",
+      "downloadUrl": "https://link-fpt.apk"
+    },
+    {
+      "title": "YouTube",
+      "category": "Giải trí",
+      "imageUrl": "https://i.imgur.com/R8kX39Y.png",
+      "packageName": "com.google.android.youtube.tv",
+      "versionCode": 100,
+      "description": "Xem video miễn phí.",
+      "downloadUrl": "https://link-youtube.apk"
+    }
+  ]
+}
