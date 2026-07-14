@@ -27,6 +27,24 @@
       "packageName": "com.viettel.tv360.tv",
       "versionCode": "6.2",
       "description": "Ứng dụng xem TV trực tuyến.",
+      "downloadUrl": "https://github.com/hoiquanvn/TT-Shop/releases/download/6.2/com.viettel.apk"
+    },
+    {
+      "title": "VTV Prime",
+      "category": "Truyền hình",
+      "imageUrl": "https://i.ibb.co/BH459PnQ/mytvlogo.jpg",
+      "packageName": "com.viettel.tv360.tv",
+      "versionCode": "6.2",
+      "description": "Ứng dụng xem TV trực tuyến.",
+      "downloadUrl": "https://github.com/hoiquanvn/TT-Shop/releases/download/12.6.29/Vtvgo.12.6.9.apk"
+    },
+    {
+      "title": "Mytv Net",
+      "category": "Truyền hình",
+      "imageUrl": "https://i.ibb.co/BH459PnQ/mytvlogo.jpg",
+      "packageName": "com.viettel.tv360.tv",
+      "versionCode": "6.2",
+      "description": "Ứng dụng xem TV trực tuyến.",
       "downloadUrl": "https://github.com/hoiquanvn/TT-Shop/releases/download/12.6.29/Vtvgo.12.6.9.apk"
     },
     {
