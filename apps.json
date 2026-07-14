@@ -32,20 +32,20 @@
     {
       "title": "VTV Prime",
       "category": "Truyền hình",
-      "imageUrl": "https://i.ibb.co/BH459PnQ/mytvlogo.jpg",
-      "packageName": "com.viettel.tv360.tv",
-      "versionCode": "6.2",
+      "imageUrl": "https://i.ibb.co/jZJvQwP2/vtvpremi.png",
+      "packageName": "vn.vtvcab.vtvprime.atv",
+      "versionCode": "1.16.0",
       "description": "Ứng dụng xem TV trực tuyến.",
-      "downloadUrl": "https://github.com/hoiquanvn/TT-Shop/releases/download/12.6.29/Vtvgo.12.6.9.apk"
+      "downloadUrl": "https://github.com/hoiquanvn/TT-Shop/releases/download/1.16.0/vtvprime.apk"
     },
     {
       "title": "Mytv Net",
       "category": "Truyền hình",
       "imageUrl": "https://i.ibb.co/BH459PnQ/mytvlogo.jpg",
-      "packageName": "com.viettel.tv360.tv",
-      "versionCode": "6.2",
+      "packageName": "vn.mytvnet.b2cott",
+      "versionCode": "4.92.0",
       "description": "Ứng dụng xem TV trực tuyến.",
-      "downloadUrl": "https://github.com/hoiquanvn/TT-Shop/releases/download/12.6.29/Vtvgo.12.6.9.apk"
+      "downloadUrl": "https://github.com/hoiquanvn/TT-Shop/releases/download/4.92.0/vn.mytvnet.apk"
     },
     {
       "title": "YouTube",
