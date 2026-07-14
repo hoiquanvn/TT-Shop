@@ -6,10 +6,10 @@
       "title": "FPT Play",
       "category": "Truyền hình",
       "imageUrl": "https://i.ibb.co/5hRKckcC/logofpt.jpg",
-      "packageName": "com.fptplay.activity",
-      "versionCode": 72618,
+      "packageName": "net.fptplay.ottbox",
+      "versionCode": "7.32.11",
       "description": "Ứng dụng xem TV trực tuyến.",
-      "downloadUrl": "https://link-fpt.apk"
+      "downloadUrl": "https://github.com/hoiquanvn/TT-Shop/releases/download/7.32.11/fptplay.apk"
     },
     {
       "title": "VTVgo",
