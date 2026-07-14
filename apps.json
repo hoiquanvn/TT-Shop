@@ -5,7 +5,7 @@
     {
       "title": "FPT Play",
       "category": "Truyền hình",
-      "imageUrl": "https://i.ibb.co/5hRKckcC/logofpt.jpg",
+      "imageUrl": "https://i.ibb.co/dsxhbpnS/fptlogo.png",
       "packageName": "net.fptplay.ottbox",
       "versionCode": "7.32.11",
       "description": "Ứng dụng xem TV trực tuyến.",
@@ -24,8 +24,8 @@
       "title": "TV360",
       "category": "Truyền hình",
       "imageUrl": "https://i.ibb.co/YBHmGDhn/tv360.jpg",
-      "packageName": "vn.vtv.vtvgotv",
-      "versionCode": "12.6.29",
+      "packageName": "com.viettel.tv360.tv",
+      "versionCode": "6.2",
       "description": "Ứng dụng xem TV trực tuyến.",
       "downloadUrl": "https://github.com/hoiquanvn/TT-Shop/releases/download/12.6.29/Vtvgo.12.6.9.apk"
     },
