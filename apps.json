@@ -2,15 +2,7 @@
   "store_version": 1,
   "store_url": "https://link-tai-apk-tt-store-moi-nhat.apk",
   "apps": [
-    {
-      "title": "FPT Play",
-      "category": "Truyền hình",
-      "imageUrl": "https://i.ibb.co/dsxhbpnS/fptlogo.png",
-      "packageName": "net.fptplay.ottbox",
-      "versionCode": "7.32.11",
-      "description": "Ứng dụng xem TV trực tuyến.",
-      "downloadUrl": "https://github.com/hoiquanvn/TT-Shop/releases/download/7.32.11/fptplay.apk"
-    },
+    
     {
       "title": "VTVgo",
       "category": "Truyền hình",
@@ -46,6 +38,15 @@
       "versionCode": "4.92.0",
       "description": "Ứng dụng xem TV trực tuyến.",
       "downloadUrl": "https://github.com/hoiquanvn/TT-Shop/releases/download/4.92.0/vn.mytvnet.apk"
+    },
+    {
+      "title": "FPT Play",
+      "category": "Truyền hình",
+      "imageUrl": "https://i.ibb.co/dsxhbpnS/fptlogo.png",
+      "packageName": "net.fptplay.ottbox",
+      "versionCode": "7.32.11",
+      "description": "Ứng dụng xem TV trực tuyến.",
+      "downloadUrl": "https://github.com/hoiquanvn/TT-Shop/releases/download/7.32.11/fptplay.apk"
     },
     {
       "title": "VieOn",
