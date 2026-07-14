@@ -59,13 +59,32 @@
     },
     
     {
+      "title": "YouTube TV",
+      "category": "Giải trí",
+      "imageUrl": "https://i.ibb.co/YBrsJ6zK/tizen.png",
+      "packageName": "com.google.android.youtube.tv",
+      "versionCode": "1.0.4",
+      "description": "Xem video miễn phí.",
+      "downloadUrl": "https://github.com/hoiquanvn/TT-Shop/releases/download/1.0.4/youtube.1.0.4.apk"
+    },
+    {
       "title": "YouTube",
       "category": "Giải trí",
-      "imageUrl": "https://i.imgur.com/R8kX39Y.png",
+      "imageUrl": "https://i.ibb.co/xqcwmwgt/youtube.png",
       "packageName": "com.google.android.youtube.tv",
-      "versionCode": 100,
+      "versionCode": "",
       "description": "Xem video miễn phí.",
-      "downloadUrl": "https://link-youtube.apk"
+      "downloadUrl": ""
+    }
+
+     {
+      "title": "Phim 4K",
+      "category": "Xem Phim",
+      "imageUrl": "https://i.ibb.co/Gvx34hSC/phim-4k.png",
+      "packageName": "",
+      "versionCode": "",
+      "description": "Xem Phim Miễn Phí",
+      "downloadUrl": ""
     }
   ]
 }
