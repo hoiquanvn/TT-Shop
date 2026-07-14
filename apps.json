@@ -48,6 +48,16 @@
       "downloadUrl": "https://github.com/hoiquanvn/TT-Shop/releases/download/4.92.0/vn.mytvnet.apk"
     },
     {
+      "title": "VieOn",
+      "category": "Truyền hình",
+      "imageUrl": "https://i.ibb.co/kgfbkwsG/vieton.png",
+      "packageName": "com.vieon.tv",
+      "versionCode": "31.0.2",
+      "description": "Ứng dụng xem TV trực tuyến.",
+      "downloadUrl": "https://github.com/hoiquanvn/TT-Shop/releases/download/31.0.2/com.vieon.apk"
+    },
+    
+    {
       "title": "YouTube",
       "category": "Giải trí",
       "imageUrl": "https://i.imgur.com/R8kX39Y.png",
