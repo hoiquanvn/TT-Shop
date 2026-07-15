@@ -130,6 +130,24 @@
       "description": "Xem Truyền Hình Cơ Bản",
       "downloadUrl": "https://raw.githubusercontent.com/hoiquanvn/TT-Shop/refs/heads/main/TV365%20(V6)"
     },
-}
+    {
+      "title": "Imedia TV",
+      "category": "Tivi Ngoại Tuyến",
+      "imageUrl": "https://i.ibb.co/ynyhsdNL/imedia-tv.png",
+      "packageName": "com.kt.apps.media.xemtv.beta",
+      "versionCode": "25.04.06.B",
+      "description": "Xem Truyền Hình Cơ Bản",
+      "downloadUrl": "https://github.com/hoiquanvn/TT-Shop/raw/refs/heads/main/iMedia-25.04.06.B.apk"
+    },
+
+    {
+      "title": "File Manager+",
+      "category": "Tiện ích",
+      "imageUrl": "https://i.ibb.co/Rkh1pwyv/file-manager.png",
+      "packageName": "com.alphainventor.filemanager",
+      "versionCode": "3.1.8",
+      "description": "quản Lý Dữ Liệu ",
+      "downloadUrl": "https://raw.githubusercontent.com/hoiquanvn/TT-Shop/refs/heads/main/File%20manager.apk"
+    },
 }
 
