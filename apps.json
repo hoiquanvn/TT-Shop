@@ -6,7 +6,8 @@
     {
       "title": "VTVgo",
       "category": "Truyền hình",
-      "imageUrl": "https://i.ibb.co/pjkq0R5N/fptplay.png",
+      "iconUrl": "https://i.ibb.co/pjkq0R5N/fptplay.png"
+      "imageUrl": "https://i.ibb.co/tpQ5ZrHB/noidungvtv.png",
       "packageName": "vn.vtv.vtvgotv",
       "versionCode": "12.6.29",
       "description": "Ứng dụng xem TV trực tuyến.",
