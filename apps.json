@@ -6,8 +6,9 @@
     {
       "title": "VTVgo",
       "category": "Truyền hình",
+      "iconUrl": "https://i.ibb.co/pjkq0R5N/fptplay.png",
       "imageUrl": "https://i.ibb.co/tpQ5ZrHB/noidungvtv.png",
-      "packageName": "vn.vtv.vtvgotv",
+      "packageName": "vn.vtv.vtvgov",
       "versionCode": "12.6.29",
       "description": "Ứng dụng xem TV trực tuyến.",
       "downloadUrl": "https://github.com/hoiquanvn/TT-Shop/releases/download/12.6.29/Vtvgo.12.6.9.apk"
