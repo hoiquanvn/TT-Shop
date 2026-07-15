@@ -96,12 +96,40 @@
     },
     {
       "title": "Get Out",
-      "category": "Giải trí",
+      "category": "Tivi Ngoại Tuyến",
       "imageUrl": "https://i.ibb.co/cXtq3svL/getout.png",
       "packageName": "com.linor.vn.getout",
       "versionCode": "2.end",
       "description": "Xem Bóng Đá Miễn Phí",
       "downloadUrl": "https://raw.githubusercontent.com/hoiquanvn/TT-Shop/refs/heads/main/getout.apk"
     },
-  ]
+  {
+      "title": "VietPlay TV",
+      "category": "Tivi Ngoại Tuyến",
+      "imageUrl": "https://i.ibb.co/gMsHSFTR/vietplaytv-logo.png",
+      "packageName": "com.nghenhin24h.vietplaytv",
+      "versionCode": "2.4",
+      "description": "Xem Truyền Hình Cơ Bản",
+      "downloadUrl": "https://raw.githubusercontent.com/hoiquanvn/TT-Shop/refs/heads/main/getout.apk"
+    },
+    {
+      "title": "TV365 (Bản Nhẹ)",
+      "category": "Tivi Ngoại Tuyến",
+      "imageUrl": "https://i.ibb.co/KJ8Prhq/logo-365.png",
+      "packageName": "com.tvonline.hdtv",
+      "versionCode": "2.0",
+      "description": "Xem Truyền Hình Cơ Bản",
+      "downloadUrl": "https://github.com/hoiquanvn/TT-Shop/raw/refs/heads/main/TV365(2).apk"
+    },
+     {
+      "title": "TV365 (Bản Nặng)",
+      "category": "Tivi Ngoại Tuyến",
+      "imageUrl": "https://i.ibb.co/KJ8Prhq/logo-365.png",
+      "packageName": "com.tv365.xvt.app",
+      "versionCode": "V6",
+      "description": "Xem Truyền Hình Cơ Bản",
+      "downloadUrl": "https://raw.githubusercontent.com/hoiquanvn/TT-Shop/refs/heads/main/TV365%20(V6)"
+    },
 }
+}
+
