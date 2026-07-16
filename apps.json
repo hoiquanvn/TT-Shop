@@ -96,6 +96,16 @@
       "downloadUrl": "https://github.com/hoiquanvn/TT-Shop/releases/download/2.6.0/phim.4K.apk"
     },
     {
+      "title": "Cho Phim",
+      "category": "Phim Ảnh",
+      "iconUrl": "https://i.ibb.co/3mRXhKtx/chophimlogo.png",
+      "imageUrl": "https://i.ibb.co/yBgG84sh/noidungchophim.png",
+      "packageName": "com.chophim.tv",
+      "versionCode": "1.0.5",
+      "description": "Xem Phim Miễn Phí",
+      "downloadUrl": "https://github.com/hoiquanvn/TT-Shop/releases/download/1.0.5/chophim.apk"
+    },
+    {
       "title": "Get Out",
       "category": "Tivi Ngoại Tuyến",
       "imageUrl": "https://i.ibb.co/cXtq3svL/getout.png",
