@@ -107,6 +107,16 @@
       "downloadUrl": "https://github.com/hoiquanvn/TT-Shop/releases/download/1.0.5/chophim.apk"
     },
     {
+      "title": "SaiGon Phim",
+      "category": "Phim Ảnh",
+      "iconUrl": "https://i.ibb.co/NgfKZX0f/saigonphimlogo.png",
+      "imageUrl": "https://i.ibb.co/r2FtVBxr/noidungsgphim.png",
+      "packageName": "com.mvotv",
+      "versionCode": "1.2",
+      "description": "Xem Phim Miễn Phí",
+      "downloadUrl": "https://github.com/hoiquanvn/TT-Shop/releases/download/1.2/saigonphim.apk"
+    },
+    {
       "title": "Get Out",
       "category": "Tivi Ngoại Tuyến",
       "imageUrl": "https://i.ibb.co/cXtq3svL/getout.png",
