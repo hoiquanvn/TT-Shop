@@ -16,7 +16,8 @@
     {
       "title": "TV360",
       "category": "Truyền hình",
-      "imageUrl": "https://i.ibb.co/YBHmGDhn/tv360.jpg",
+      "iconUrl": "https://i.ibb.co/YBHmGDhn/tv360.jpg",
+      "imageUrl": "https://i.ibb.co/xKzqqyFn/noidung360.png",
       "packageName": "com.viettel.tv360.tv",
       "versionCode": "6.2",
       "description": "Ứng dụng xem TV trực tuyến.",
@@ -25,7 +26,8 @@
     {
       "title": "VTV Prime",
       "category": "Truyền hình",
-      "imageUrl": "https://i.ibb.co/jZJvQwP2/vtvpremi.png",
+      "iconUrl": "https://i.ibb.co/jZJvQwP2/vtvpremi.png",
+      "imageUrl": "https://i.ibb.co/whBq1Hrp/noidungvtvpremi.png",
       "packageName": "vn.vtvcab.vtvprime.atv",
       "versionCode": "1.16.0",
       "description": "Ứng dụng xem TV trực tuyến.",
@@ -34,7 +36,8 @@
     {
       "title": "Mytv Net",
       "category": "Truyền hình",
-      "imageUrl": "https://i.ibb.co/BH459PnQ/mytvlogo.jpg",
+      "iconUrl": "https://i.ibb.co/BH459PnQ/mytvlogo.jpg",
+      "imageUrl": "https://i.ibb.co/h1X3gt0n/noidungmytv.png",
       "packageName": "vn.mytvnet.b2cott",
       "versionCode": "4.92.0",
       "description": "Ứng dụng xem TV trực tuyến.",
@@ -43,7 +46,8 @@
     {
       "title": "FPT Play",
       "category": "Truyền hình",
-      "imageUrl": "https://i.ibb.co/0ptcvBNS/fptlogo.png",
+      "iconUrl": "https://i.ibb.co/qYVrGfjy/logofpt.png",
+      "imageUrl": "https://i.ibb.co/xSf7zjnZ/noidungfpt.png",
       "packageName": "net.fptplay.ottbox",
       "versionCode": "7.32.11",
       "description": "Ứng dụng xem TV trực tuyến.",
