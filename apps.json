@@ -56,7 +56,8 @@
     {
       "title": "VieOn",
       "category": "Truyền hình",
-      "imageUrl": "https://i.ibb.co/kgfbkwsG/vieton.png",
+      "iconUrl": "https://i.ibb.co/kgfbkwsG/vieton.png",
+      "imageUrl": "https://i.ibb.co/Xxq0hykr/noidungvieton.jpg",
       "packageName": "com.vieon.tv",
       "versionCode": "31.0.2",
       "description": "Ứng dụng xem TV trực tuyến.",
