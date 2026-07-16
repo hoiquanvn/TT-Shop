@@ -89,7 +89,8 @@
     {
       "title": "Phim 4K",
       "category": "Phim Ảnh",
-      "imageUrl": "https://i.ibb.co/Gvx34hSC/phim-4k.png",
+      "iconUrl": "https://i.ibb.co/Gvx34hSC/phim-4k.png",
+      "imageUrl": "https://i.ibb.co/F49WG2vF/noidung4k.png",
       "packageName": "com.oxootv.spagreen",
       "versionCode": "2.6.0",
       "description": "Xem Phim Miễn Phí",
