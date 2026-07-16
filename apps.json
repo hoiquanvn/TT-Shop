@@ -68,7 +68,7 @@
       "title": "YouTube TV",
       "category": "Giải trí",
       "iconUrl": "https://i.ibb.co/gZH9Bp9W/logotizen.png",
-      "imageUrl": "https://i.ibb.co/RTMKf9bN/noidungtizen.jpg",
+      "imageUrl": "https://i.ibb.co/WNGyj4hz/chan-quang-cao-youtube.jpg",
       "packageName": "com.google.android.youtube.tv",
       "versionCode": "1.0.4",
       "description": "Xem video miễn phí.",
@@ -77,7 +77,8 @@
     {
       "title": "YouTube TV",
       "category": "Giải trí",
-      "imageUrl": "https://i.ibb.co/YBrsJ6zK/tizen.png",
+      "iconUrl": "https://i.ibb.co/gZH9Bp9W/logotizen.png",
+      "imageUrl": "https://i.ibb.co/WNGyj4hz/chan-quang-cao-youtube.jpg",
       "packageName": "com.google.android.youtube.tv",
       "versionCode": "1.0.9",
       "description": "Xem video miễn phí.",
