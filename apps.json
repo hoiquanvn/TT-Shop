@@ -87,6 +87,16 @@
       "downloadUrl": "https://github.com/hoiquanvn/TT-Shop/releases/download/5.30.320/youtube.apk"
     },
     {
+      "title": "Smart Tube",
+      "category": "Giải trí",
+      "iconUrl": "https://i.ibb.co/4n65QdfD/smart-tube-logo.png",
+      "imageUrl": "https://i.ibb.co/BKCRjfNq/noidungsmarttube.png",
+      "packageName": "org.smarttube.stable",
+      "versionCode": "31.94",
+      "description": "Xem video miễn phí.",
+      "downloadUrl": "https://github.com/hoiquanvn/TT-Shop/releases/download/31.94/smattube.apk"
+    },
+    {
       "title": "Phim 4K",
       "category": "Phim Ảnh",
       "iconUrl": "https://i.ibb.co/Gvx34hSC/phim-4k.png",
