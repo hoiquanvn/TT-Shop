@@ -127,6 +127,16 @@
       "downloadUrl": "https://github.com/hoiquanvn/TT-Shop/releases/download/1.2/saigonphim.apk"
     },
     {
+      "title": "Cobe Phim",
+      "category": "Phim Ảnh",
+      "iconUrl": "https://i.ibb.co/5WYpqN7k/logorophim.jpg",
+      "imageUrl": "https://i.ibb.co/NgdG3sqx/noidungcobephim.png",
+      "packageName": "com.tv.rophimm",
+      "versionCode": "1.0",
+      "description": "Xem Phim Miễn Phí",
+      "downloadUrl": "https://github.com/hoiquanvn/TT-Shop/releases/download/1.0/cobephim.apk"
+    },
+    {
       "title": "Get Out",
       "category": "Tivi Ngoại Tuyến",
       "imageUrl": "https://i.ibb.co/cXtq3svL/getout.png",
