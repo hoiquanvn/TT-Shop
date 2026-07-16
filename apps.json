@@ -137,6 +137,16 @@
       "downloadUrl": "https://github.com/hoiquanvn/TT-Shop/releases/download/1.0/cobephim.apk"
     },
     {
+      "title": "HieuGa Cinema",
+      "category": "Phim Ảnh",
+      "iconUrl": "https://i.ibb.co/s9vXYx20/hieugacinema.webp",
+      "imageUrl": "https://i.ibb.co/y3zNW37/noidunghieugacinema.png",
+      "packageName": "com.duchieuqodes.xoigacinematv",
+      "versionCode": "1.0.0",
+      "description": "Xem Phim Miễn Phí",
+      "downloadUrl": "https://github.com/hoiquanvn/TT-Shop/releases/download/1.0.0/hieugacenima.apk"
+    },
+    {
       "title": "Get Out",
       "category": "Tivi Ngoại Tuyến",
       "imageUrl": "https://i.ibb.co/cXtq3svL/getout.png",
