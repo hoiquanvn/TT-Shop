@@ -86,7 +86,8 @@
     {
       "title": "YouTube",
       "category": "Giải trí",
-      "imageUrl": "https://i.ibb.co/7NrrTzcV/logo-youtube.png",
+      "iconUrl": "https://i.ibb.co/FLzCD0L1/logoyoutube.png",
+      "imageUrl": "https://i.ibb.co/svJsQjbd/noidung-youtube.png",
       "packageName": "com.google.android.youtube.tv",
       "versionCode": "5.30.320",
       "description": "Xem video miễn phí.",
