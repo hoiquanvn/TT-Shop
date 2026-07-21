@@ -199,7 +199,7 @@
       "description": "Xem Truyền Hình Cơ Bản",
       "downloadUrl": "https://github.com/hoiquanvn/TT-Shop/releases/download/25.04.06/iMedia-25.04.06.B.apk"
     },
-
+    
     {
       "title": "File Manager+",
       "category": "Tiện ích",
@@ -208,6 +208,15 @@
       "versionCode": "3.1.8",
       "description": "quản Lý Dữ Liệu ",
       "downloadUrl": "https://github.com/hoiquanvn/TT-Shop/releases/download/3/file.manager.+.apk"
+    },
+    {
+      "title": "Giọng Nói TAV",
+      "category": "Tiện ích",
+      "imageUrl": "https://i.ibb.co/Txy0H0dz/a6253454f6ad77f32ebc.jpg",
+      "packageName": "com.alphainventor.filemanager",
+      "versionCode": "3.1.8",
+      "description": "ITV KIKI 3.0 ",
+      "downloadUrl": "https://github.com/hoiquanvn/TT-Shop/releases/download/8.0/TT.voice.3.apk"
     },
     {
       "title": "Downloader",
