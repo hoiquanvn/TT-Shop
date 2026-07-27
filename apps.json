@@ -164,6 +164,16 @@
       "description": "Xem Phim Miễn Phí",
       "downloadUrl": "https://github.com/hoiquanvn/TT-Shop/releases/download/1.24.0/hiphim.apk"
     },
+     {
+      "title": "NVC Phim",
+      "category": "Phim Ảnh",
+      "iconUrl": "https://i.ibb.co/xtG8SfPN/logo-nvcphim.png",
+      "imageUrl": "https://i.ibb.co/7Jmdnz0W/noidung-nnvcphim.png",
+      "packageName": "com.nvc.movieapp",
+      "versionCode": "3.4.5",
+      "description": "Xem Phim Miễn Phí",
+      "downloadUrl": "https://github.com/hoiquanvn/TT-Shop/releases/download/3.4.5/NVC.Phim.apk"
+    },
     {
       "title": "HieuGa Cinema",
       "category": "Phim Ảnh",
