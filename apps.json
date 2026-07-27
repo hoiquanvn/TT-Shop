@@ -249,6 +249,16 @@
       "downloadUrl": "https://github.com/hoiquanvn/TT-Shop/releases/download/8.0/TT.voice.3.apk"
     },
     {
+      "title": "Trình Duyệt Coccoc",
+      "category": "Tiện ích",
+      "iconUrl": "https://i.ibb.co/hJXqRrCQ/logo-coccoc.png",
+      "imageUrl": "https://i.ibb.co/TB6JqrjW/noidungcococ.png",
+      "packageName": "com.coccoc.trinhduyet_tvlite",
+      "versionCode": "1.6",
+      "description": "Trình Duyệt Website ",
+      "downloadUrl": "https://github.com/hoiquanvn/TT-Shop/releases/download/1.6/Coc_Coc_Lite_1.6.apk"
+    },
+    {
       "title": "Downloader",
       "category": "Tiện ích",
       "iconUrl": "https://i.ibb.co/vvQN9RcV/downloader.png",
