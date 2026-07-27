@@ -149,7 +149,7 @@
       "category": "Phim Ảnh",
       "iconUrl": "https://i.ibb.co/C4Lzgg3/logo-dao-phim.png",
       "imageUrl": "https://i.ibb.co/1fY8QT45/noidungdaophim.png",
-      "packageName": "com.tv.rophimm",
+      "packageName": "me.daophim.app",
       "versionCode": "1.1.2",
       "description": "Xem Phim Miễn Phí",
       "downloadUrl": "https://github.com/hoiquanvn/TT-Shop/releases/download/1.1.2/daophim-android-1.1.2.1.apk"
