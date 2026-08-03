@@ -250,6 +250,27 @@
       "description": "Xem Truyền Hình Cơ Bản",
       "downloadUrl": "https://github.com/hoiquanvn/TT-Shop/releases/download/99.9.9/HSTIVI_2.6.apk"
     },
+
+    {
+      "title": "Ezviz TV",
+      "category": "Xem Camera",
+      "iconUrl": "https://i.ibb.co/RkmXsLcP/logoezviz.png",
+      "imageUrl": "https://i.ibb.co/wZ8FdWZM/noidungeziz.png",
+      "packageName": "com.ezviz.tv",
+      "versionCode": "1.1.1.0408",
+      "description": "Quan sát Cammera",
+      "downloadUrl": ""
+    },
+    {
+      "title": "Yoosee",
+      "category": "Xem Camera",
+      "iconUrl": "https://i.ibb.co/v4xSg3C8/logoyoosee.jpg",
+      "imageUrl": "https://i.ibb.co/FkCdH1mQ/noidungyousee.png",
+      "packageName": "com.yoosee",
+      "versionCode": "00.46.06.17",
+      "description": "Quan sát Cammera",
+      "downloadUrl": "https://github.com/hoiquanvn/TT-Shop/releases/download/00.46.06.17/yousee.apk"
+    },
     
     {
       "title": "File Manager+",
