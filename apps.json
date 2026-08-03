@@ -105,6 +105,17 @@
       "downloadUrl": "https://github.com/hoiquanvn/TT-Shop/releases/download/31.94/smattube.apk"
     },
     {
+      "title": "Tiktok Lite",
+      "category": "Giải Trí",
+      "iconUrl": "https://i.ibb.co/3yJTC07k/logotiktok.jpg",
+      "imageUrl": "https://i.ibb.co/SXsn9Fnw/noidung-tiktok.jpg",
+      "packageName": "com.zhiliaoapp.musiccally.go",
+      "versionCode": "39.9.3",
+      "description": "Video Giải Trí ",
+      "downloadUrl": "https://github.com/hoiquanvn/TT-Shop/releases/download/39.9.3/tiktok.apk"
+    },
+    
+    {
       "title": "Phim 4K",
       "category": "Phim Ảnh",
       "iconUrl": "https://i.ibb.co/Gvx34hSC/phim-4k.png",
@@ -248,17 +259,6 @@
       "versionCode": "99.9.9",
       "description": "Xem Truyền Hình Cơ Bản",
       "downloadUrl": "https://github.com/hoiquanvn/TT-Shop/releases/download/99.9.9/HSTIVI_2.6.apk"
-    },
-
-     {
-      "title": "Tiktok Lite",
-      "category": "Giải Trí",
-      "iconUrl": "https://i.ibb.co/3yJTC07k/logotiktok.jpg",
-      "imageUrl": "https://i.ibb.co/SXsn9Fnw/noidung-tiktok.jpg",
-      "packageName": "com.zhiliaoapp.musiccally.go",
-      "versionCode": "39.9.3",
-      "description": "Video Giải Trí ",
-      "downloadUrl": "https://github.com/hoiquanvn/TT-Shop/releases/download/39.9.3/tiktok.apk"
     },
     
     {
