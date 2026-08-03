@@ -116,16 +116,6 @@
     },
     
     {
-      "title": "Phim 4K",
-      "category": "Phim Ảnh",
-      "iconUrl": "https://i.ibb.co/Gvx34hSC/phim-4k.png",
-      "imageUrl": "https://i.ibb.co/F49WG2vF/noidung4k.png",
-      "packageName": "com.oxootv.spagreen",
-      "versionCode": "2.6.0",
-      "description": "Xem Phim Miễn Phí",
-      "downloadUrl": "https://github.com/hoiquanvn/TT-Shop/releases/download/2.6.0/phim.4K.apk"
-    },
-    {
       "title": "Cho Phim",
       "category": "Phim Ảnh",
       "iconUrl": "https://i.ibb.co/3mRXhKtx/chophimlogo.png",
