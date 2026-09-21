@@ -126,6 +126,16 @@
       "downloadUrl": "https://github.com/hoiquanvn/TT-Shop/releases/download/1.0.5/chophim.apk"
     },
     {
+      "title": "Phim 4K",
+      "category": "Phim Ảnh",
+      "iconUrl": "https://i.ibb.co/Gvx34hSC/phim-4k.png",
+      "imageUrl": "https://i.ibb.co/BHvL7qWC/noidung4k.png",
+      "packageName": "com.phim4K",
+      "versionCode": "1.0.5",
+      "description": "Xem Phim Miễn Phí",
+      "downloadUrl": "https://github.com/hoiquanvn/TT-Shop/releases/download/2.6.0/phim4k_TV_2.6.7.1.apk"
+    },
+    {
       "title": "SaiGon Phim",
       "category": "Phim Ảnh",
       "iconUrl": "https://i.ibb.co/NgfKZX0f/saigonphimlogo.png",
