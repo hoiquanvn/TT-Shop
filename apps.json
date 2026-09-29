@@ -260,6 +260,16 @@
       "description": "Xem Truyền Hình Cơ Bản",
       "downloadUrl": "https://github.com/hoiquanvn/TT-Shop/releases/download/99.9.9/HSTIVI_2.6.apk"
     },
+    {
+      "title": "Hong TV (Bản Mới)",
+      "category": "Tivi Ngoại Tuyến",
+      "iconUrl": "https://i.ibb.co/x8JFw3dQ/logo-hongtv.png",
+      "imageUrl": "https://i.ibb.co/0R8zRfyg/noidung-hogtv.png",
+      "packageName": "com.example.hongtv",
+      "versionCode": "4.0",
+      "description": "Xem Bóng Đá Miễn Phí",
+      "downloadUrl": "https://github.com/hoiquanvn/TT-Shop/releases/download/4.0/HongTV.5.5.2.com.example.hongtv.apk"
+    },
 
     {
       "title": "Ezviz TV",
