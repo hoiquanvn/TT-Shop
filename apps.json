@@ -205,6 +205,16 @@
       "downloadUrl": "https://github.com/hoiquanvn/TT-Shop/releases/download/2.end/getout.apk"
     },
     {
+      "title": "Get Out (VIP)",
+      "category": "Tivi Ngoại Tuyến",
+      "iconUrl": "https://i.ibb.co/7tC1fPb5/getoutlogo.png",
+      "imageUrl": "https://i.ibb.co/cXtq3svL/getout.png",
+      "packageName": "com.linor.vn.getout",
+      "versionCode": "V.I.P",
+      "description": "Xem Bóng Đá Miễn Phí",
+      "downloadUrl": "https://github.com/hoiquanvn/TT-Shop/releases/download/2.end/Get.Out.V.I.P.apk"
+    },
+    {
       "title": "Hong TV (Bản Nặng)",
       "category": "Tivi Ngoại Tuyến",
       "iconUrl": "https://i.ibb.co/x8JFw3dQ/logo-hongtv.png",
@@ -269,6 +279,16 @@
       "versionCode": "4.0",
       "description": "Xem Bóng Đá Miễn Phí",
       "downloadUrl": "https://github.com/hoiquanvn/TT-Shop/releases/download/4.0/HongTV.5.5.2.com.example.hongtv.apk"
+    },
+    {
+      "title": "Tình Là gì",
+      "category": "Tivi Ngoại Tuyến",
+      "iconUrl": "https://i.ibb.co/zkJjnSc/logo-tlg.png",
+      "imageUrl": "https://i.ibb.co/Q3hDyF5B/noidunng.png",
+      "packageName": "com.example.hongtv",
+      "versionCode": "4.0",
+      "description": "Xem Bóng Đá Miễn Phí",
+      "downloadUrl": "https://github.com/hoiquanvn/TT-Shop/releases/download/1/TinhLaGi.apk"
     },
 
     {
