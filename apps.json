@@ -350,7 +350,17 @@
       "description": "ITV KIKI 3.0 ",
       "downloadUrl": "https://github.com/hoiquanvn/TT-Shop/releases/download/8.0/itvkiki.28-8.apk"
     },
-    
+
+    {
+      "title": "LeanKeyboard",
+      "category": "Tiện ích",
+      "iconUrl": "https://i.ibb.co/XZ8vJYzC/icon.png",
+      "imageUrl": "https://i.ibb.co/nMkD7d1B/noidung.png",
+      "packageName": "org.liskovsoft.androidtv.rukeyboard",
+      "versionCode": "6.1.36",
+      "description": "Bàn phím ",
+      "downloadUrl": "https://github.com/hoiquanvn/TT-Shop/releases/download/6.1.36/learkey.board.apk"
+    },
     {
       "title": "File Manager+",
       "category": "Tiện ích",
