@@ -390,5 +390,15 @@
       "description": "Tải Ứng Dụng Theo Code ",
       "downloadUrl": "https://github.com/hoiquanvn/TT-Shop/releases/download/2.0.3/Downloader.9999.9.9.9.com.esaba.downloader.apk"
     }
+    {
+      "title": "CH Play",
+      "category": "Tiện ích",
+      "iconUrl": "https://i.ibb.co/8LG8Z8S9/3128279.png",
+      "imageUrl": "https://i.ibb.co/60YMZ4v4/Untitled.png",
+      "packageName": "com.android.vending",
+      "versionCode": "29.2.13-21",
+      "description": "Cửa Hàng Google Play ",
+      "downloadUrl": "https://github.com/hoiquanvn/TT-Shop/releases/download/29.2.13-21/Tubesky.apk"
+    }
     ]
 }
