@@ -391,14 +391,14 @@
       "downloadUrl": "https://github.com/hoiquanvn/TT-Shop/releases/download/2.0.3/Downloader.9999.9.9.9.com.esaba.downloader.apk"
     },
     {
-      "title": "CH Play",
+      "title": "Google 7.9",
       "category": "Tiện ích",
-      "iconUrl": "https://i.ibb.co/8LG8Z8S9/3128279.png",
-      "imageUrl": "https://i.ibb.co/60YMZ4v4/Untitled.png",
-      "packageName": "",
-      "versionCode": "29.2.13-21",
-      "description": "Cửa Hàng Google Play ",
-      "downloadUrl": "https://github.com/hoiquanvn/TT-Shop/releases/download/29.2.13-21/ADB.TV.apk"
+      "iconUrl": "https://i.ibb.co/p62KFZBs/logo-google.png",
+      "imageUrl": "https://i.ibb.co/p62KFZBs/logo-google.png",
+      "packageName": "com.google.android.katniss",
+      "versionCode": "7.9",
+      "description": "Google For Android TV ",
+      "downloadUrl": "https://github.com/hoiquanvn/TT-Shop/releases/download/7.9/Google.7.9.20231101.2.com.google.android.katniss.apk"
     }
     ]
 }
