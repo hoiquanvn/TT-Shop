@@ -14,7 +14,7 @@
       "downloadUrl": "https://github.com/hoiquanvn/TT-Shop/releases/download/12.6.29/vtvgo.apk"
     },
     {
-      "title": "TV360",
+      "title": "TV360 (Bản Nặng)",
       "category": "Truyền hình",
       "iconUrl": "https://i.ibb.co/YBHmGDhn/tv360.jpg",
       "imageUrl": "https://i.ibb.co/xKzqqyFn/noidung360.png",
@@ -22,6 +22,16 @@
       "versionCode": "6.2",
       "description": "Ứng dụng xem TV trực tuyến.",
       "downloadUrl": "https://github.com/hoiquanvn/TT-Shop/releases/download/6.2/tv360.apk"
+    },
+    {
+      "title": "TV360 (Bản Nhẹ)",
+      "category": "Truyền hình",
+      "iconUrl": "https://i.ibb.co/YBHmGDhn/tv360.jpg",
+      "imageUrl": "https://i.ibb.co/xKzqqyFn/noidung360.png",
+      "packageName": "com.viettel.tv360.tv",
+      "versionCode": "6.3.1",
+      "description": "Ứng dụng xem TV trực tuyến.",
+      "downloadUrl": "https://github.com/hoiquanvn/TT-Shop/releases/download/6.3.1/TV360.apk"
     },
     {
       "title": "VTV Prime",
@@ -52,6 +62,16 @@
       "versionCode": "7.34.13",
       "description": "Ứng dụng xem TV trực tuyến.",
       "downloadUrl": "https://github.com/hoiquanvn/TT-Shop/releases/download/7.32.11/fpt.34.13.apk"
+    },
+    {
+      "title": "FPT Play (Bản Nhẹ)",
+      "category": "Truyền hình",
+      "iconUrl": "https://i.ibb.co/qYVrGfjy/logofpt.png",
+      "imageUrl": "https://i.ibb.co/xSf7zjnZ/noidungfpt.png",
+      "packageName": "net.fptplay.ottbox",
+      "versionCode": "7.34.13",
+      "description": "Ứng dụng xem TV trực tuyến.",
+      "downloadUrl": "https://github.com/hoiquanvn/TT-Shop/releases/download/7.34.13/FPT.apk"
     },
     {
       "title": "VieOn",
