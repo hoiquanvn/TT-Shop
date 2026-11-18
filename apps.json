@@ -370,7 +370,16 @@
       "description": "ITV KIKI 3.0 ",
       "downloadUrl": "https://github.com/hoiquanvn/TT-Shop/releases/download/8.0/itvkiki.28-8.apk"
     },
-
+   {
+      "title": "NETBOX Karaoke",
+      "category": "Ứng Dụng TAV",
+      "imageUrl": "https://ibb.co/mFcffm15",
+      "packageName": "",
+      "versionCode": "1.0.21",
+      "description": " ",
+      "downloadUrl": "https://github.com/hoiquanvn/TT-Shop/releases/download/1.0.21/net_karaoke_box_1.0.21_release.apk"
+    },
+    
     {
       "title": "LeanKeyboard",
       "category": "Tiện ích",
