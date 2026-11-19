@@ -235,6 +235,16 @@
       "downloadUrl": "https://github.com/hoiquanvn/TT-Shop/releases/download/2.end/Get.Out.V.I.P.apk"
     },
     {
+      "title": "Luxubu TV",
+      "category": "Tivi Ngoại Tuyến",
+      "iconUrl": "https://i.ibb.co/JjxXhWpm/logo-nho-luxubu.png",
+      "imageUrl": "https://i.ibb.co/Z18BRCkV/logo-luxubu.png",
+      "packageName": "app.luxubu",
+      "versionCode": "1.0.2",
+      "description": "Xem Bóng Đá Miễn Phí",
+      "downloadUrl": "https://github.com/hoiquanvn/TT-Shop/releases/download/1.0.2/luxubu.apk"
+    },
+    {
       "title": "Hong TV (Bản Nặng)",
       "category": "Tivi Ngoại Tuyến",
       "iconUrl": "https://i.ibb.co/x8JFw3dQ/logo-hongtv.png",
@@ -373,8 +383,8 @@
    {
       "title": "NETBOX Karaoke",
       "category": "Ứng Dụng TAV",
-      "iconUrl": "https://ibb.co/VWXF40ys",
-      "imageUrl": "https://ibb.co/mFcffm15",
+      "iconUrl": "https://i.ibb.co/cczWnK5j/logo-smart-karaoke.png",
+      "imageUrl": "https://i.ibb.co/m5c0cm5m/smart-karaoke.png",
       "packageName": "",
       "versionCode": "1.0.21",
       "description": " ",
